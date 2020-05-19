@@ -1,0 +1,15 @@
+How you can run our project?
+
+1. At first you should have open visual studio (any version). But we do our work on visual studio 2017.
+
+
+2.After opening visual studio you should to open our project by visual studio. When you open in you can see the features of our project.
+Then you should have to run our project step by step. But before run the project you should have to connect the project with database.
+We use mysql database.For connecting with database you shoud follow some rules.We connect the database with the help of youtube.
+So we provide you the youtube link.
+
+https://www.youtube.com/watch?v=2H6ZJpAd1WQ&t=333s
+	
+
+3.After connecting with database you can easily run the project and every feature of the project.
+When you give the information as a amember or an admin or donar it will be store in the database.
